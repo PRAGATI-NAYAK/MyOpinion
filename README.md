@@ -1,7 +1,7 @@
 # MyOpinion
 A Web Application of managing the Feedbacks
 MyOpinion (A Web  Application  which  is  used  to   manage  the Feedbacks)
-INSTRUCTIONS   TO  RUN  THE  CODE :
+INSTRUCTIONS   TO  RUN  THE  CODE :</br>
 •	In the Visual Studio Codes or any other Editors  which you are using in their open the Folder called “MyOpinion”.
 •	And then in the terminal/console- run the command: 
 npm start 
